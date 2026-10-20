@@ -20,8 +20,8 @@ require (
 	github.com/docker/go-connections v0.6.0
 	github.com/fatih/color v1.19.0
 	github.com/fsnotify/fsnotify v1.10.1
-	github.com/go-git/go-billy/v6 v6.0.0-alpha.1
-	github.com/go-git/go-git/v6 v6.0.0-alpha.4
+	github.com/go-git/go-billy/v6 v6.0.0-alpha.2
+	github.com/go-git/go-git/v6 v6.0.0-alpha.5
 	github.com/go-sql-driver/mysql v1.10.0
 	github.com/gofrs/flock v0.13.0
 	github.com/google/uuid v1.6.0
